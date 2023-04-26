@@ -20,3 +20,4 @@ I would like to work on a project that ~~helps users locate potentially hidden f
 2. Rework existing sections of the code
 3. These are things that I would like to do
 
+### This project is licensed under the terms of the GNU license.
