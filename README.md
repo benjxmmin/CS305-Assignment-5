@@ -20,3 +20,6 @@ I would like to work on a project that ~~helps users locate potentially hidden f
 2. Rework existing sections of the code
 3. These are things that I would like to do
 
+### Potential New Module:
+> I believe that it would be cool if you could somehow connect with grubhub or doordash to have them get this food sent to them. 
+
